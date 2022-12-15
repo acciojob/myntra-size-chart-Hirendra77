@@ -12,3 +12,6 @@ table{
     
     background-color: rgb(218, 58, 58);
 }
+td, th{
+    border: 1px solid red;
+}

@@ -1,2 +1,14 @@
-
-/* Your CSS Code here. */
+ 
+tbody{
+    background-color: rgb(132, 226, 233);
+    border: 2px solid black;
+    
+}
+table{
+    border: 2px solid gray;
+    border-collapse: collapse;
+}
+.row-1 tr th{
+    
+    background-color: rgb(218, 58, 58);
+}

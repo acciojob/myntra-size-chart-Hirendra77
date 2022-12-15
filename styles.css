@@ -2,11 +2,14 @@
 tbody{
     background-color: rgb(132, 226, 233);
     border: 2px solid black;
+   
+
     
 }
 table{
     border: 2px solid gray;
     border-collapse: collapse;
+    width: 500px;
 }
 .row-1 tr th{
     
@@ -14,4 +17,6 @@ table{
 }
 td, th{
     border: 1px solid red;
+    padding: 10px;
+    text-align: center;
 }
